@@ -1,9 +1,3 @@
-Perfect — then we can frame it as a **personal learning roadmap** rather than a team/project repo. I can tweak it slightly so it reads like a study plan for you, while keeping all the concepts and projects clear.
-
-Here’s a personalized version:
-
----
-
 # 🦀 My Rust Learning Roadmap
 
 This roadmap is my personal plan to learn Rust step by step. Each stage focuses on specific Rust concepts, and each project helps me practice them in a hands-on way.
